@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 33b190eff61c71f4fa8abe520addc8fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Chicken_Head
+  - first:
+      213: 21300002
+    second: Chicken_Body
+  - first:
+      213: 21300004
+    second: Chicken_Left Eye
+  - first:
+      213: 21300006
+    second: Chicken_Right Eye
+  - first:
+      213: 21300008
+    second: Chicken_Left Wing
+  - first:
+      213: 21300010
+    second: Chicken_Right Wing
+  - first:
+      213: 21300012
+    second: Chicken_Head Comb
+  - first:
+      213: 21300014
+    second: Chicken_Beak Comb
+  - first:
+      213: 21300016
+    second: Chicken_Left Eyelid
+  - first:
+      213: 21300018
+    second: Chicken_Right Eyelid
+  - first:
+      213: 21300020
+    second: Chicken_Left Food
+  - first:
+      213: 21300022
+    second: Chicken_Right Foot
+  - first:
+      213: 21300024
+    second: Chicken_Beak
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 911
+        width: 555
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a00dfc17866254d9894189f27cc174
+      internalID: -180746087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_1
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 887
+        width: 506
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c208aa4334e1e2044ac3da2a62e18c6a
+      internalID: -518228275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 589
+        width: 160
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096340e4691398e41b97633d26b6346f
+      internalID: 402435409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 589
+        width: 160
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191396cc2411318469ca7020f5b3c97d
+      internalID: -573188450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 624
+        width: 144
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ce0097565588f4db58d21c620e3cc0
+      internalID: 491920420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_5
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 623
+        width: 145
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2536cd58d44cb854c8291cadedf71329
+      internalID: 1801894805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 378
+        width: 129
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82210c94aacf3429272821079c80e2
+      internalID: -1299533257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 371
+        width: 129
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd20445a9f32cf44789b37295d13d1c5
+      internalID: -1705839052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 461
+        width: 169
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e31569b9ded044a4c34a8e3a7acbc
+      internalID: -326350790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 378
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac6876e0dc95a545a8214f0aab51512
+      internalID: 290278944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_10
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 371
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9446f64c0748af949ac875fcbe4e8db3
+      internalID: 1236667491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 70
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b1e72e8fd1d6409c1ce27a3281ed4
+      internalID: 1812885441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 70
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a9f9ef127f86e4eabee130145c8401
+      internalID: 1595198182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 74
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef28cd7b0eb1ad47b76c8737384eb01
+      internalID: 1888982680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Sprite Atlas_Example for Animations_14
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 68
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83dcbb1185e4134e9ae24d71ea7b43c
+      internalID: 573990618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ee80b53bee26e7642b70ac2740909d2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chicken_Sprite Atlas_Example for Animations_9: 290278944
+      Chicken_Sprite Atlas_Example for Animations_6: -1299533257
+      Chicken_Sprite Atlas_Example for Animations_14: 573990618
+      Chicken_Sprite Atlas_Example for Animations_13: 1888982680
+      Chicken_Sprite Atlas_Example for Animations_0: -180746087
+      Chicken_Sprite Atlas_Example for Animations_10: 1236667491
+      Chicken_Sprite Atlas_Example for Animations_11: 1812885441
+      Chicken_Sprite Atlas_Example for Animations_12: 1595198182
+      Chicken_Sprite Atlas_Example for Animations_2: 402435409
+      Chicken_Sprite Atlas_Example for Animations_3: -573188450
+      Chicken_Sprite Atlas_Example for Animations_5: 1801894805
+      Chicken_Sprite Atlas_Example for Animations_1: -518228275
+      Chicken_Sprite Atlas_Example for Animations_7: -1705839052
+      Chicken_Sprite Atlas_Example for Animations_4: 491920420
+      Chicken_Sprite Atlas_Example for Animations_8: -326350790
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
